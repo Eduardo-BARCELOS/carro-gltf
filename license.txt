@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cena Um
+* source:	https://sketchfab.com/3d-models/cena-um-03454f2ce6054546a4aa9bb8c9e4c71e
+* author:	eduardobarcelos (https://sketchfab.com/eduardobarcelos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cena Um" (https://sketchfab.com/3d-models/cena-um-03454f2ce6054546a4aa9bb8c9e4c71e) by eduardobarcelos (https://sketchfab.com/eduardobarcelos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
